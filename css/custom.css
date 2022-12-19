@@ -39,6 +39,10 @@ img.wp-image-16 {
 
 
 
+.feature-slider {
+    background-position: top !important;
+}
+
 
 @media only screen and (max-width: 620px) {
 
