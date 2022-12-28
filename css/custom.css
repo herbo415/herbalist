@@ -94,3 +94,7 @@ a.more.btn.btn--black {
 .et_pb_row.et_pb_row_4_tb_header {
     background-color: white;
 }
+
+.custom-intro-text {
+    text-align: left !important;
+}
