@@ -84,6 +84,6 @@ a.more.btn.btn--black {
 }
 
 
-p.has-text-align-center.has-medium-font-size {
-    text-align: justify;
+.has-text-align-center.has-medium-font-size {
+    text-align: justify !important;
 }
