@@ -82,3 +82,8 @@ a.more.btn.btn--black {
     min-height: 200px !important;
 }
 }
+
+
+p.has-text-align-center.has-medium-font-size {
+    text-align: justify;
+}
