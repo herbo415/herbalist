@@ -87,7 +87,7 @@ a.more.btn.btn--black {
 /*HIDE TOP BAR*/
 
 .et_pb_row.et_pb_row_0_tb_header {
-    display: none;
+    display: block;
 }
 
 
