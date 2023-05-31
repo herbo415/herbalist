@@ -103,3 +103,7 @@ a.more.btn.btn--black {
     font-size: 80px;
     line-height: 80.77px;
 }
+
+.slider-content.et_pb_row {
+    display: none;
+}
