@@ -87,3 +87,8 @@ a.more.btn.btn--black {
 .custom-intro-text {
     text-align: left !important;
 }
+
+p.custom-intro-text {
+    font-size: 25px;
+    line-height: 25px;
+}
