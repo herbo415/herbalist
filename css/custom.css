@@ -107,3 +107,8 @@ a.more.btn.btn--black {
 .slider-content.et_pb_row {
     display: none;
 }
+
+p.custom-intro-text {
+    font-size: 25px;
+    line-height: 25px;
+}
